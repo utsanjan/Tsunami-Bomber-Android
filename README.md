@@ -17,15 +17,15 @@
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become
 responsible for any misuse or damage caused by Tsunami.**  
-**Please do not use this app for taking Revenge on someone. The application is made only for fair usage.**
-
-**This app is on it's Beta stage. Currently
-<br>only Indian Mobile numbers are supported.**
-<br>**Bug reports will be much appreciated.** <br>ㅤ
+**Please do not use this app for taking Revenge on someone. The application is made only for fair usage.** <br>ㅤ
 
 <a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
 <img src="https://1.bp.blogspot.com/-sxrHsyoElOA/YJKq3Gx4uII/AAAAAAAAgpo/5POCaTxpPWcy9P4I8ZNr9FKazhRIWvj2ACLcBGAsYHQ/w200-h56/button.png"
 alt="Tsunami App Download"></a><br>ㅤ
+
+**This app is on it's Beta stage. Currently
+<br>only Indian Mobile numbers are supported.**
+<br>**Bug reports will be much appreciated.** <br>ㅤ
 
 - The application requires active internet connection to contact the APIs
 - You would not be charged for any SMS/calls dispatched as a consequence of this app
