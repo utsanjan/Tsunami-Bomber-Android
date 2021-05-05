@@ -45,7 +45,9 @@ Any android version from Android 5.0 or higher are compatible with this applicat
 - Possibility of international API support in future updates of this app
 - Flexible with addition of newer APIs within the application
 - Actively supports Indian mobile numbers and will get updates and bug-fixes
-- Made for free and open-source usage, in case of any query feel free to contact
+- Made for free and open-source usage, in case of any query feel free to contact <br>ㅤ
+
+### <i>[🔽 Download the Tsunami Bomber Android Application](https://github.com/utsanjan/Tsunami-Bomber-Android/releases)</i>
 
 ## 📞 Contact me  
 
