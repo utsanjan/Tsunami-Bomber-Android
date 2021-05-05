@@ -17,7 +17,7 @@
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become responsible<br>
 > for any misuse or damage caused by Tsunami. Please do not<br>
-> use this app for taking Revenge on someone. The application is made only for fair usage.**
+> use this app only for fair not for taking Revenge...**
 
 **This app is on it's Beta stage. Currently
 <br>only Indian Mobile numbers are supported.**
