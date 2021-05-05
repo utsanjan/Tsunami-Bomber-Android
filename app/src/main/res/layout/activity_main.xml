@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@color/black"
+            android:layout_marginBottom="0px">
+                <im.delight.android.webview.AdvancedWebView
+                    android:id="@+id/webview"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:scrollbars="none"
+                    android:layout_marginTop="70px"
+                    android:layout_weight="0.7"
+                    android:layout_marginRight="-5px"
+                    android:layout_marginLeft="-5px">
+                </im.delight.android.webview.AdvancedWebView>
+
+
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/teal_200"
+            android:id="@+id/overlay_relative">
+
+                <ImageView
+                    android:id="@+id/loadingLogo"
+                    android:layout_width="180dp"
+                    android:layout_height="150dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/loading" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/relativeLayout"
+            android:background="@color/teal_200"
+            android:visibility="gone">
+
+                <pl.droidsonroids.gif.GifImageView
+                    android:id="@+id/noConnectionLogo"
+                    android:layout_width="300dp"
+                    android:layout_height="300dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="130dp"
+                    android:src="@drawable/no_internet" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="No Internet Connection"
+                    android:textColor="#FFFFFF"
+                    android:layout_below="@+id/noConnectionLogo"
+                    android:textSize="25sp"
+                    android:layout_marginTop="-60px"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:id="@+id/txtNoConnection"/>
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnNoConnection"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_below="@+id/txtNoConnection"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="60dp"
+                    android:background="@drawable/button"
+                    android:text="Retry"
+                    android:fontFamily="sans-serif-medium"
+                    android:textColor="#FFFFFF"
+                    android:textSize="15sp" />
+
+        </RelativeLayout>
+
+</RelativeLayout>
