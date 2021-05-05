@@ -20,7 +20,7 @@
 > use this app only for fair not for taking Revenge...**
 
 **This app is on it's Beta stage. Currently
-<br>only Indian Mobile numbers are supported.**
+<br>only Indian Mobile nos. are supported.**
 <br>**Bug reports will be much appreciated.** <br>ㅤ
 
 <a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
