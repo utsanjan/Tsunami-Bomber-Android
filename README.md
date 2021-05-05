@@ -23,8 +23,9 @@ responsible for any misuse or damage caused by Tsunami.**
 <br>only Indian Mobile numbers are supported.**
 <br>**Bug reports will be much appreciated.** <br>ㅤ
 
-### <i>[🔽 Download the Tsunami Bomber Android Application](https://github.com/utsanjan/Tsunami-Bomber-Android/releases)</i>
-
+<a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
+<img src="https://1.bp.blogspot.com/-sxrHsyoElOA/YJKq3Gx4uII/AAAAAAAAgpo/5POCaTxpPWcy9P4I8ZNr9FKazhRIWvj2ACLcBGAsYHQ/s320/button.png"
+alt="Tsunami App Download">
 
 - The application requires active internet connection to contact the APIs
 - You would not be charged for any SMS/calls dispatched as a consequence of this app
