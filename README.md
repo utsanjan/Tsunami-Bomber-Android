@@ -34,8 +34,8 @@ alt="Tsunami App Download"></a><br>ㅤ
 - By using this, you agree that you cannot hold the developer responsible for any misuse
 
 ## 📱 Compatibility
-Any android version from Android 5.0 or higher are compatible with this application.
-<br>Android 11 support is introduced with the initial beta release.
+Any android version from Android 5.0 or above are compatible with this version.
+<br>Android 11 support is also introduced with the initial beta release.
 
 ## 💣 Features
 
