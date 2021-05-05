@@ -6,11 +6,7 @@
   </a><br>
   Tsunami v1.3 Beta
   <br>
-</h1>
-
-   
-   
-   
+</h1>    
 
 <p align="center">An open-source SMS & Call flooding
 <br>Android application with unlimited
@@ -25,7 +21,9 @@ responsible for any misuse or damage caused by Tsunami.**
 
 **This app is on it's Beta stage. Currently
 <br>only Indian Mobile numbers are supported.**
-<br>**Bug reports will be much appreciated.**
+<br>**Bug reports will be much appreciated.** <br>ㅤ
+
+### <i>[🔽 Download the Tsunami Bomber Android Application](https://github.com/utsanjan/Tsunami-Bomber-Android/releases)</i>
 
 
 - The application requires active internet connection to contact the APIs
@@ -45,9 +43,7 @@ Any android version from Android 5.0 or higher are compatible with this applicat
 - Possibility of international API support in future updates of this app
 - Flexible with addition of newer APIs within the application
 - Actively supports Indian mobile numbers and will get updates and bug-fixes
-- Made for free and open-source usage, in case of any query feel free to contact <br>ㅤ
-
-### <i>[🔽 Download the Tsunami Bomber Android Application](https://github.com/utsanjan/Tsunami-Bomber-Android/releases)</i>
+- Made for free and open-source usage, in case of any query feel free to contact
 
 ## 📞 Contact me  
 
