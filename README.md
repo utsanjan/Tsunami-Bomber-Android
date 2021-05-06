@@ -24,7 +24,7 @@
 <br>**Bug reports will be much appreciated.** <br>ㅤ
 
 <a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
-<img src="https://1.bp.blogspot.com/-sxrHsyoElOA/YJKq3Gx4uII/AAAAAAAAgpo/5POCaTxpPWcy9P4I8ZNr9FKazhRIWvj2ACLcBGAsYHQ/w200-h56/button.png"
+<img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
 alt="Tsunami App Download"></a><br>ㅤ
 
 - For best performance, use a decent network connection
