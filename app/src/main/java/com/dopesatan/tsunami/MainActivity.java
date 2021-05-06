@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
                 public void run() {
                     overlay_relative.setVisibility(View.GONE);
                 }
-            }, 10000);
+            }, 14000);
             Toast.makeText(MainActivity.this, "Welcome to Tsunami", Toast.LENGTH_LONG).show();
         }
         else if(mobileNetwork.isConnected()){
@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
                 public void run() {
                     overlay_relative.setVisibility(View.GONE);
                 }
-            }, 10000);
+            }, 14000);
             Toast.makeText(MainActivity.this, "Welcome to Tsunami", Toast.LENGTH_LONG).show();
         }
         else{

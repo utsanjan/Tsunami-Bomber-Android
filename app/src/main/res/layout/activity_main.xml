@@ -33,13 +33,41 @@
             android:background="@color/teal_200"
             android:id="@+id/overlay_relative">
 
+                <pl.droidsonroids.gif.GifImageView
+                    android:id="@+id/bomb"
+                    android:layout_width="130dp"
+                    android:layout_height="130dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="-20dp"
+                    android:paddingLeft="20dp"
+                    android:layout_above="@+id/loadingLogo"
+                    android:src="@drawable/bomb" />
+
                 <ImageView
                     android:id="@+id/loadingLogo"
-                    android:layout_width="180dp"
-                    android:layout_height="150dp"
+                    android:layout_width="150dp"
+                    android:layout_height="140dp"
                     android:layout_centerHorizontal="true"
                     android:layout_centerVertical="true"
-                    android:src="@drawable/loading" />
+                    android:src="@drawable/infotxt" />
+
+                <LinearLayout
+                    android:layout_width = "wrap_content"
+                    android:layout_height = "wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="200px"
+                    android:layout_alignParentBottom="true">
+
+                        <ImageView
+                            android:id="@+id/branding"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_centerVertical="true"
+                            android:src="@drawable/branding" />
+
+                </LinearLayout>
 
         </RelativeLayout>
 
@@ -47,26 +75,24 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/relativeLayout"
-            android:background="@color/teal_200"
-            android:visibility="gone">
+            android:background="@color/teal_200">
 
                 <pl.droidsonroids.gif.GifImageView
                     android:id="@+id/noConnectionLogo"
                     android:layout_width="300dp"
                     android:layout_height="300dp"
-                    android:layout_alignParentTop="true"
                     android:layout_centerHorizontal="true"
-                    android:layout_marginTop="130dp"
-                    android:src="@drawable/no_internet" />
+                    android:src="@drawable/no_internet"
+                    android:layout_above="@+id/txtNoConnection"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="No Internet Connection"
                     android:textColor="#FFFFFF"
-                    android:layout_below="@+id/noConnectionLogo"
+                    android:layout_centerVertical="true"
                     android:textSize="25sp"
-                    android:layout_marginTop="-60px"
+                    android:layout_marginTop="-70px"
                     android:textAlignment="center"
                     android:textStyle="bold"
                     android:id="@+id/txtNoConnection"/>
@@ -77,12 +103,22 @@
                     android:layout_height="40dp"
                     android:layout_below="@+id/txtNoConnection"
                     android:layout_centerHorizontal="true"
-                    android:layout_marginTop="60dp"
+                    android:layout_marginTop="40dp"
                     android:background="@drawable/button"
                     android:text="Retry"
                     android:fontFamily="sans-serif-medium"
                     android:textColor="#FFFFFF"
                     android:textSize="15sp" />
+
+                <ImageView
+                    android:id="@+id/brand"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/branding"
+                    android:layout_marginBottom="200px"
+                    android:layout_alignParentBottom="true" />
 
         </RelativeLayout>
 
