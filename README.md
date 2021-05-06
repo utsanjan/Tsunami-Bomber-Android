@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/utsanjan/Tsunami-Bomber-Android">
-  <img src="https://1.bp.blogspot.com/-YJ0yHTgNa6c/YD4gkSYeWCI/AAAAAAAAbVo/Px7ODVFOEtkMGQ9F1m-X8xkceDya22BFwCLcBGAsYHQ/w200-h200/Tsunami.png"
+  <img src="https://lh3.googleusercontent.com/-jL54efSLKFE/YJRNOPDK5WI/AAAAAAAAgso/QTHuuAgV8W8P1srX8Z8OEN-UgEH_YyaWACLcBGAsYHQ/w200-h200/splash.png"
   alt="Tsunami">
   </a><br>
   Tsunami v1.3 Beta
