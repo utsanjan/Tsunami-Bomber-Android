@@ -4,7 +4,6 @@
   <img src="https://lh3.googleusercontent.com/-B7t6k6KbV2Y/YJRP6aDUcFI/AAAAAAAAgtE/9fnBeyq5whEXRcuVVFEq6BgJdBrcVJBCQCLcBGAsYHQ/s16000/splash.png"
   alt="Tsunami">
   </a><br>
-  ㅤ<br>
   Tsunami v1.3
   <br>
 </h1>    
