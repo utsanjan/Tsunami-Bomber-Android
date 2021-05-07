@@ -22,7 +22,7 @@
 **This app is on it's Beta stage. Currently
 <br>only Indian Mobile nos. are supported.**
 <br>**Bug reports will be much appreciated.
-<br>Download the application from below.** <br>ㅤ
+<br>Download the application from below:** <br>ㅤ
 
 <a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
 <img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
