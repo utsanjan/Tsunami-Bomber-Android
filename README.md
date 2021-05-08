@@ -12,7 +12,7 @@
 <br>Android application with unlimited
 <br>OTP bombing capability</p>
 
-## 📝 Notes:
+## 📝 Notes: 
 
 **The Python Script version of this app<br>
 is also available. You can find it from<br>
