@@ -14,6 +14,9 @@
 
 ## 📝 Notes: 
 
+**The Python Script version of this app<br>
+is also available. You can find it from<br>
+the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bomber/)** <br>
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become responsible<br>
 > for any misuse or damage caused by Tsunami. Please do not<br>
