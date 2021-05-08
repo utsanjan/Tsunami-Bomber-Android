@@ -12,7 +12,7 @@
 <br>Android application with unlimited
 <br>OTP bombing capability</p>
 
-## 📝 Notes:
+## 📝 Notes: 
 
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become responsible<br>
