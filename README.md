@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/utsanjan/Tsunami-Bomber-Android">
-  <img src="https://1.bp.blogspot.com/-YJ0yHTgNa6c/YD4gkSYeWCI/AAAAAAAAbVo/Px7ODVFOEtkMGQ9F1m-X8xkceDya22BFwCLcBGAsYHQ/w200-h200/Tsunami.png"
+  <img src="https://lh3.googleusercontent.com/-B7t6k6KbV2Y/YJRP6aDUcFI/AAAAAAAAgtE/9fnBeyq5whEXRcuVVFEq6BgJdBrcVJBCQCLcBGAsYHQ/s16000/splash.png"
   alt="Tsunami">
   </a><br>
-  Tsunami v1.3 Beta
+  Tsunami v1.3
   <br>
 </h1>    
 
@@ -12,8 +12,11 @@
 <br>Android application with unlimited
 <br>OTP bombing capability</p>
 
-## 📝 Notes:
+## 📝 Notes
 
+**The Python Script version of this app<br>
+is also available. You can find it from<br>
+the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bomber/)** <br>
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become responsible<br>
 > for any misuse or damage caused by Tsunami. Please do not<br>
@@ -21,10 +24,11 @@
 
 **This app is on it's Beta stage. Currently
 <br>only Indian Mobile nos. are supported.**
-<br>**Bug reports will be much appreciated.** <br>ㅤ
+<br>**Bug reports will be much appreciated.
+<br>Download the application from below:** <br>ㅤ
 
 <a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
-<img src="https://1.bp.blogspot.com/-sxrHsyoElOA/YJKq3Gx4uII/AAAAAAAAgpo/5POCaTxpPWcy9P4I8ZNr9FKazhRIWvj2ACLcBGAsYHQ/w200-h56/button.png"
+<img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
 alt="Tsunami App Download"></a><br>ㅤ
 
 - For best performance, use a decent network connection
