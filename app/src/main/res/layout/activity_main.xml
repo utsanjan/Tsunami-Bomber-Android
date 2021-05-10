@@ -6,12 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-        <LinearLayout
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
             android:background="@color/black"
             android:layout_marginBottom="0px">
+
                 <im.delight.android.webview.AdvancedWebView
                     android:id="@+id/webview"
                     android:layout_width="match_parent"
@@ -20,26 +21,57 @@
                     android:layout_marginTop="70px"
                     android:layout_weight="0.7"
                     android:layout_marginRight="-5px"
-                    android:layout_marginLeft="-5px">
-                </im.delight.android.webview.AdvancedWebView>
+                    android:layout_marginLeft="-5px"/>
 
+                <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/leftbtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="70px"
+                    android:layout_marginLeft="40px"
+                    android:onClick="left"
+                    android:src="@drawable/ic_baseline_attach_money_24"
+                    app:fabCustomSize="39dp"
+                    app:maxImageSize="20dp"
+                    app:fab_colorNormal="#4578E3"
+                    app:fab_colorPressed="#BDD2FF"
+                    app:fab_colorRipple="#FFFFFF"
+                    android:backgroundTint="#4578E3"
+                    android:clickable="true">
+                </com.google.android.material.floatingactionbutton.FloatingActionButton>
 
+                <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/rightbtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="70px"
+                    android:onClick="right"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="40px"
+                    android:src="@drawable/ic_baseline_update_24"
+                    app:fabCustomSize="39dp"
+                    app:maxImageSize="20dp"
+                    app:fab_colorNormal="#4578E3"
+                    app:fab_colorPressed="#BDD2FF"
+                    app:fab_colorRipple="#FFFFFF"
+                    android:backgroundTint="#4578E3"
+                    android:clickable="true">
+                </com.google.android.material.floatingactionbutton.FloatingActionButton>
 
-        </LinearLayout>
+        </RelativeLayout>
 
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/teal_200"
+            android:background="#0D101E"
             android:id="@+id/overlay_relative">
 
                 <pl.droidsonroids.gif.GifImageView
                     android:id="@+id/bomb"
-                    android:layout_width="130dp"
-                    android:layout_height="130dp"
+                    android:layout_height="200dp"
+                    android:layout_width="195dp"
+                    android:layout_marginBottom="-65dp"
                     android:layout_centerHorizontal="true"
-                    android:layout_marginBottom="-20dp"
-                    android:paddingLeft="20dp"
                     android:layout_above="@+id/loadingLogo"
                     android:src="@drawable/bomb" />
 
@@ -51,23 +83,17 @@
                     android:layout_centerVertical="true"
                     android:src="@drawable/infotxt" />
 
-                <LinearLayout
-                    android:layout_width = "wrap_content"
-                    android:layout_height = "wrap_content"
-                    android:orientation="horizontal"
+                <ImageView
+                    android:id="@+id/branding"
+                    android:layout_width="100dp"
+                    android:layout_height="fill_parent"
                     android:layout_centerHorizontal="true"
-                    android:layout_marginBottom="200px"
-                    android:layout_alignParentBottom="true">
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="150dp"
 
-                        <ImageView
-                            android:id="@+id/branding"
-                            android:layout_width="100dp"
-                            android:layout_height="wrap_content"
-                            android:layout_centerHorizontal="true"
-                            android:layout_centerVertical="true"
-                            android:src="@drawable/branding" />
-
-                </LinearLayout>
+                    android:layout_marginBottom="50dp"
+                    android:layout_below="@id/loadingLogo"
+                    android:src="@drawable/branding" />
 
         </RelativeLayout>
 
@@ -75,7 +101,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/relativeLayout"
-            android:background="@color/teal_200">
+            android:background="#0D101E">
 
                 <pl.droidsonroids.gif.GifImageView
                     android:id="@+id/noConnectionLogo"
@@ -110,15 +136,16 @@
                     android:textColor="#FFFFFF"
                     android:textSize="15sp" />
 
-                <ImageView
-                    android:id="@+id/brand"
-                    android:layout_width="100dp"
-                    android:layout_height="wrap_content"
-                    android:layout_centerHorizontal="true"
-                    android:layout_centerVertical="true"
-                    android:src="@drawable/branding"
-                    android:layout_marginBottom="200px"
-                    android:layout_alignParentBottom="true" />
+        <ImageView
+            android:id="@+id/branding1"
+            android:layout_width="100dp"
+            android:layout_height="fill_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="122dp"
+            android:layout_marginBottom="50dp"
+            android:layout_below="@id/btnNoConnection"
+            android:src="@drawable/branding" />
 
         </RelativeLayout>
 
