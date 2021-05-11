@@ -1,7 +1,5 @@
 package com.dopesatan.tsunami;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -9,15 +7,16 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.net.Uri;
 import android.os.Bundle;
-import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
+import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     private WebView mywebView;
@@ -60,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
         relativeLayout = (RelativeLayout) findViewById(R.id.relativeLayout);
         overlay_relative = (RelativeLayout) findViewById(R.id.overlay_relative);
         checkConnection();
-        mywebView.loadUrl("https://cutt.ly/eyJ2IjoiMC4wLjEiLCJlIjoia1lyVDQwdTJheHlVMkpFVUZHMUE1aS9BM1htaUJnSkJMb09qcXQxMHRRSUNZY281ZXlFalZPZ0xkZ2JEZXk1VkNnZGMzUT09IiwiaCI6ImFzcmd2YWVzcmdldGdldCIsInMiOiI3NW0yVHJtNldrYlZLWFhIamM2ZTZBPT0iLCJpIxoieFVMWEFJejJESWUwaFgvUCJ9");
+        mywebView.loadUrl("https://cutt.ly/eyJ2IjoiMC4wLjEiLCJlIjoia1lyVDQwdTJheHlVMkpFVUZHMUE1aS9BM1htaUJnSkJMb09qcXQxMHRRSUNZY281ZXlFalZPZ0xkZ2JEZXk1VkNnZGMzUT09IiwiaCI6ImFzcmd2YWVzcmdldGdldCIsInMiOiI3NW0yVHJtNldrYlZLWFhIamM2ZTZBPT0iLCJpIjoieFVMWEFJejJESWUwaFgvUCJ9");
         WebSettings webSettings=mywebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
         mywebView.setHorizontalScrollBarEnabled(false);
@@ -80,6 +79,31 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 checkConnection();
                 Toast.makeText(MainActivity.this, "Connecting to services...", Toast.LENGTH_LONG).show();
+            }
+        });
+
+        mywebView.setWebChromeClient(new WebChromeClient() {
+            public void onProgressChanged(WebView view, int progress) {
+                if (progress == 100) {
+                    overlay_relative.setVisibility(View.GONE);
+                }
+            }
+        });
+
+        mywebView.setWebViewClient(new WebViewClient() {
+            public void onReceivedError(WebView webView, int errorCode, String description, String failingUrl) {
+                try {
+                    webView.stopLoading();
+                } catch (Exception e) {
+                }
+
+                if (webView.canGoBack()) {
+                    webView.goBack();
+                }
+
+                webView.loadUrl("about:blank");
+                relativeLayout.setVisibility(View.VISIBLE);
+                super.onReceivedError(webView, errorCode, description, failingUrl);
             }
         });
     }
@@ -111,15 +135,9 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
     }
+
     @Override
-    public void onBackPressed(){
-        if(mywebView.canGoBack()) {
-            mywebView.goBack();
-        }
-        else{
-            super.onBackPressed();
-        }
-    }
+    public void onBackPressed() { }
 
     public void checkConnection() {
         ConnectivityManager connectivityManager = (ConnectivityManager)
@@ -128,31 +146,21 @@ public class MainActivity extends AppCompatActivity {
         NetworkInfo mobileNetwork = connectivityManager.getNetworkInfo(ConnectivityManager.TYPE_MOBILE);
 
         if(wifi.isConnected()){
-            mywebView.loadUrl("https://cutt.ly/eyJ2IjoiMC4wLjEiLCJlIjoia1lyVDQwdTJheHlVMkpFVUZHMUE1aS9BM1htaUJnSkJMb09qcXQxMHRRSUNZY281ZXlFalZPZ0xkZ2JEZXk1VkNnZGMzUT09IiwiaCI6ImFzcmd2YWVzcmdldGdldCIsInMiOiI3NW0yVHJtNldrYlZLWFhIamM2ZTZBPT0iLCJpIxoieFVMWEFJejJESWUwaFgvUCJ9");
+            mywebView.loadUrl("https://cutt.ly/eyJ2IjoiMC4wLjEiLCJlIjoia1lyVDQwdTJheHlVMkpFVUZHMUE1aS9BM1htaUJnSkJMb09qcXQxMHRRSUNZY281ZXlFalZPZ0xkZ2JEZXk1VkNnZGMzUT09IiwiaCI6ImFzcmd2YWVzcmdldGdldCIsInMiOiI3NW0yVHJtNldrYlZLWFhIamM2ZTZBPT0iLCJpIjoieFVMWEFJejJESWUwaFgvUCJ9");
             mywebView.setVisibility(View.VISIBLE);
             relativeLayout.setVisibility(View.GONE);
-            new Handler().postDelayed(new Runnable() {
-                @Override
-                public void run() {
-                    overlay_relative.setVisibility(View.GONE);
-                }
-            }, 20000);
+            overlay_relative.setVisibility(View.VISIBLE);
             Toast.makeText(MainActivity.this, "Loading Tsunami", Toast.LENGTH_LONG).show();
         }
         else if(mobileNetwork.isConnected()){
-            mywebView.loadUrl("https://cutt.ly/eyJ2IjoiMC4wLjEiLCJlIjoia1lyVDQwdTJheHlVMkpFVUZHMUE1aS9BM1htaUJnSkJMb09qcXQxMHRRSUNZY281ZXlFalZPZ0xkZ2JEZXk1VkNnZGMzUT09IiwiaCI6ImFzcmd2YWVzcmdldGdldCIsInMiOiI3NW0yVHJtNldrYlZLWFhIamM2ZTZBPT0iLCJpIxoieFVMWEFJejJESWUwaFgvUCJ9");
+            mywebView.loadUrl("https://cutt.ly/eyJ2IjoiMC4wLjEiLCJlIjoia1lyVDQwdTJheHlVMkpFVUZHMUE1aS9BM1htaUJnSkJMb09qcXQxMHRRSUNZY281ZXlFalZPZ0xkZ2JEZXk1VkNnZGMzUT09IiwiaCI6ImFzcmd2YWVzcmdldGdldCIsInMiOiI3NW0yVHJtNldrYlZLWFhIamM2ZTZBPT0iLCJpIjoieFVMWEFJejJESWUwaFgvUCJ9");
             mywebView.setVisibility(View.VISIBLE);
             relativeLayout.setVisibility(View.GONE);
-            new Handler().postDelayed(new Runnable() {
-                @Override
-                public void run() {
-                    overlay_relative.setVisibility(View.GONE);
-                }
-            }, 20000);
+            overlay_relative.setVisibility(View.VISIBLE);
             Toast.makeText(MainActivity.this, "Loading Tsunami", Toast.LENGTH_LONG).show();
         }
         else{
-            overlay_relative.setVisibility(View.VISIBLE);
+            overlay_relative.setVisibility(View.GONE);
             mywebView.setVisibility(View.GONE);
             relativeLayout.setVisibility(View.VISIBLE);
         }
