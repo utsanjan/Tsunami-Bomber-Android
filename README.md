@@ -37,6 +37,11 @@ alt="Tsunami App Download"></a><br>ㅤ
 - This application must not be used to cause harm/discomfort/trouble to others
 - By using this, you agree that you cannot hold the developer responsible for any misuse
 
+## 🛠️ Usage Guide
+For a detailed usage guide<br>
+watch my YouTube Video Tutorial:<br><br>
+<a href="https://youtu.be/w7bO0Cotu5A"><img alt="YouTube" title="UsageGuide" src="https://lh3.googleusercontent.com/-AsfTwhCD4i8/YJ9EiIaGTOI/AAAAAAAAg7o/67sw20Tc4d4jbLCnyftfcsQvKYjKGM3hQCLcBGAsYHQ/w320-h180/imageonline-co-roundcorner.png"/></a>
+
 ## 📱 Compatibility
 Any android version from Android 5.0 or above are compatible with this app.
 <br>Android 11 support is also introduced with the initial beta release.
