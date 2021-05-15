@@ -13,7 +13,7 @@
 <br>OTP bombing capability</p>
 
 ## 📝 Notes
-
+⚙ **[Click here for Script Usage Guide](#%EF%B8%8F-usage-guide)** <br><br>
 **The Python Script version of this app<br>
 is also available. You can find it from<br>
 the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bomber/)** <br>
