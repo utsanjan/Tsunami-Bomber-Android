@@ -13,7 +13,7 @@
 <br>OTP bombing capability</p>
 
 ## 📝 Notes
-
+⚙ **[Click here for App Usage Guide](#%EF%B8%8F-usage-guide)** <br><br>
 **The Python Script version of this app<br>
 is also available. You can find it from<br>
 the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bomber/)** <br>
@@ -36,6 +36,11 @@ alt="Tsunami App Download"></a><br>ㅤ
 - You would not be charged for any SMS/calls dispatched as a consequence of this app
 - This application must not be used to cause harm/discomfort/trouble to others
 - By using this, you agree that you cannot hold the developer responsible for any misuse
+
+## 🛠️ Usage Guide
+For a detailed usage guide<br>
+watch my YouTube Video Tutorial:<br><br>
+<a href="https://youtu.be/w7bO0Cotu5A"><img alt="YouTube" title="UsageGuide" src="https://lh3.googleusercontent.com/-AsfTwhCD4i8/YJ9EiIaGTOI/AAAAAAAAg7o/67sw20Tc4d4jbLCnyftfcsQvKYjKGM3hQCLcBGAsYHQ/w320-h180/imageonline-co-roundcorner.png"/></a>
 
 ## 📱 Compatibility
 Any android version from Android 5.0 or above are compatible with this app.
