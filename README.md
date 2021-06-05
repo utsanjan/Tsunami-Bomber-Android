@@ -12,7 +12,7 @@
 <br>Android application with unlimited
 <br>OTP bombing capability</p>
 
-## 📝 Notes 
+## 📝 Notes
 ⚙ **[Click here for App Usage Guide](#%EF%B8%8F-usage-guide)** <br><br>
 **The Python Script version of this app<br>
 is also available. You can find it from<br>
@@ -22,8 +22,7 @@ the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bombe
 > for any misuse or damage caused by Tsunami. Please do not<br>
 > use this app only for fair not for taking Revenge.**
 
-**This app is on it's Beta stage. Currently
-<br>only Indian Mobile nos. are supported.**
+**Currently this app is on Beta stage.**
 <br>**Bug reports will be much appreciated.
 <br>Download the application from below:** <br>ㅤ
 
@@ -50,8 +49,8 @@ Any android version from Android 5.0 or above are compatible with this app.
 
 - Flexible with addition of newer APIs within the application
 - Over 20 integrated messaging and calling APIs included within app
-- Unlimited (with abuse protection) and super-fast sms and call bombing
-- Possibility of international API support in future updates of this app
+- Added with some International APIs which may consist some rough edges
+- Unlimited (with abuse protection) and super-fast sms bombing capabilities
 - Actively supports Indian mobile numbers and will get updates and bug-fixes
 - Made for free and open-source usage, in case of any query feel free to contact
 
