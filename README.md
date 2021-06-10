@@ -56,13 +56,13 @@ Any android version from Android 5.0 or above are compatible with this app.
 
 ## ✒️ Credits 
 ### [MrSp4rX](https://github.com/MrSp4rX)<br>
-**Work: MrSp4arX designed the iSpammer tool<br>
-which helped me a lot to design this Bombing app<br>
-Thank you so much MrSparX for providing the APIs.** <br>
+**Work: MrSp4rX designed the iSpammer python tool<br>
+which helped me a lot to design this Bombing App<br>
+Thank you so much MrSp4rX for providing the APIs.** <br>
 [Click here to visit iSpammer Repository](https://github.com/MrSp4rX/iSpammer)
 
 ## 📞 Contact me  
 
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
 [Check Out My YouTube Channel](https://www.youtube.com/DopeSatan) <br>
-[MrSparX's YouTube Channel](https://www.youtube.com/c/D4rkH4cker5)
+[MrSp4rX's YouTube Channel](https://www.youtube.com/c/D4rkH4cker5)
