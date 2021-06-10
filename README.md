@@ -61,7 +61,7 @@ which helped me a lot to design this Bombing App<br>
 Thank you so much MrSp4rX for providing the APIs.** <br>
 [Click here to visit iSpammer Repository](https://github.com/MrSp4rX/iSpammer)
 
-## 📞 Contact me  
+## 📞 Contacts
 
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
 [Check Out My YouTube Channel](https://www.youtube.com/DopeSatan) <br>
