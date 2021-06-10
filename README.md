@@ -14,7 +14,7 @@
 
 ## 📝 Notes 
 ⚙ **[Click here for App Usage Guide](#%EF%B8%8F-usage-guide)** <br><br>
-**The Python Script version of this app<br>
+**The Shell Script version of this app<br>
 is also available. You can find it from<br>
 the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bomber/)** <br>
 > ## DISCLAIMER:
@@ -54,7 +54,15 @@ Any android version from Android 5.0 or above are compatible with this app.
 - Actively supports Indian mobile numbers and will get updates and bug-fixes
 - Made for free and open-source usage, in case of any query feel free to contact
 
+## ✒️ Credits 
+### [MrSp4rX](https://github.com/MrSp4rX)<br>
+**Work: MrSp4arkX designed the iSpammer tool<br>
+which helped me a lot to design this Bombing app<br>
+Thank you so much MrSparkX for providing the APIs.** <br>
+[Click here to visit iSpammer Repository](https://github.com/MrSp4rX/iSpammer)
+
 ## 📞 Contact me  
 
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
-[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
+[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan) <br>
+[MrSparkX's YouTube Channel](https://www.youtube.com/c/D4rkH4cker5)
