@@ -25,7 +25,7 @@ the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bombe
 **Currently this app is on Beta stage.**
 <br>**Bug reports will be much appreciated.
 <br>Download the application from below:** <br>ㅤ
-
+ 
 <a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
 <img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
 alt="Tsunami App Download"></a><br>ㅤ
