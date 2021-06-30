@@ -6,7 +6,7 @@
   </a><br>
   Tsunami v1.3
   <br>
-</h1>    
+</h1>   
 
 <p align="center">An open-source SMS & Call flooding
 <br>Android application with unlimited
