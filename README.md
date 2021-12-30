@@ -15,7 +15,7 @@
 ## 📝 Notes 
 ⚙ **[Click here for App Usage Guide](#%EF%B8%8F-usage-guide)** <br><br>
 - Dual Integer Bug Fixed Now ✅<br><br>
-**The Shell Script version of this app<br>
+- **The Shell Script version of this app<br>
 is also available. You can find it from<br>
 the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bomber/)** <br>
 > ## DISCLAIMER:
