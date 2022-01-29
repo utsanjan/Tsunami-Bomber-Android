@@ -8,8 +8,8 @@
   <br>
 </h1>   
 
-<p align="center">An open-source SMS & Call flooding
-<br>Android application with unlimited
+<p align="center">A free to use SMS & Call flooding
+<br>Android app with unlimited
 <br>OTP bombing capability</p>
 
 ## 📝 Notes
