@@ -8,13 +8,18 @@
   <br>
 </h1>   
 
-<p align="center">An open-source SMS & Call flooding
-<br>Android application with unlimited
+<p align="center">Free to use SMS & Call flooding
+<br>Android app with unlimited
 <br>OTP bombing capability</p>
 
-## 📝 Notes 
-⚙ **[Click here for App Usage Guide](#%EF%B8%8F-usage-guide)** <br><br>
-**The Shell Script version of this app<br>
+## 📝 Notes
+[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
+[![](https://img.shields.io/github/languages/count/utsanjan/Tsunami-Bomber-Android?style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/search?l=shell)‎ ‎
+[![](https://img.shields.io/github/license/utsanjan/Tsunami-Bomber-Android?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎
+[![](https://img.shields.io/github/languages/top/utsanjan/Tsunami-Bomber-Android?color=light%20green&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android)‎ ‎ <br><br>
+⚙ **[Click here for Application Usage Guide](#%EF%B8%8F-usage-guide)** <br>
+- Dual Integer Bug is Fixed Now‎ ‎ ✅<br>
+- **The Shell Script version of this app<br>
 is also available. You can find it from<br>
 the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bomber/)** <br>
 > ## DISCLAIMER:
