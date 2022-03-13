@@ -24,8 +24,8 @@ is also available. You can find it from<br>
 the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bomber/)** <br>
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become responsible<br>
-> for any misuse or damage caused by Tsunami. Please do not<br>
-> use this app only for fair not for taking Revenge.**
+> for any misuse or damage caused by Tsunami. Please do<br>
+> use this app only for fair reasons not for taking revenge**
 
 **Currently this app is on Beta stage.**
 <br>**Bug reports will be much appreciated.
