@@ -37,8 +37,8 @@ alt="Tsunami App Download"></a><br>ㅤ
 
 - For best performance, use a decent network connection
 - The application requires active internet connection to contact the APIs
-- You would not be charged for any SMS/calls dispatched as a consequence of this app
 - This application must not be used to cause harm/discomfort/trouble to others
+- You would not be charged for any SMS/calls dispatched as a consequence of this app
 - By using this, you agree that you cannot hold the developer responsible for any misuse
 
 ## 🛠️ Usage Guide
@@ -48,7 +48,7 @@ watch my YouTube Video Tutorial:<br><br>
 
 ## 📱 Compatibility
 Any android version from Android 5.0 or above are compatible with this app.
-<br>Android 11 support is also introduced with the initial beta release.
+<br>Android 12 support is also introduced with the latest beta release apk.
 
 ## 💣 Features
 
