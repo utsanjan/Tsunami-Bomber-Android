@@ -2,9 +2,9 @@
   <br>
   <a href="https://github.com/utsanjan/Tsunami-Bomber-Android">
   <img src="https://lh3.googleusercontent.com/-B7t6k6KbV2Y/YJRP6aDUcFI/AAAAAAAAgtE/9fnBeyq5whEXRcuVVFEq6BgJdBrcVJBCQCLcBGAsYHQ/s16000/splash.png"
-  alt="Tsunami">
+  alt="Tsunami Bomber">
   </a><br>
-  Tsunami v1.3
+  Tsunami Bomber
   <br>
 </h1>
  
