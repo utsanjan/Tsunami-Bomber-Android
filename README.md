@@ -24,7 +24,7 @@ Dual Integer Bug is Fixed Now‎ ‎ ✅<br>
 is also available. You can find it<br>
 by clicking the button below:** <br>
 
-<a href="https://github.com/utsanjan/Tsunami-Bomber"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzUYIjctsC1gIOl8cdmALklKk3UsOoiS9ep4u7vpomz31UHReDNp932OFvUjVt2U27C4_6ayAXXLglafewTVVHuvKCW1t10hjX95ylz-SamX-JqLW_BWAPd8ceVFc2hfccHLZCmcQfcEnCqGW2J0GGeSy_bt5vIZ_u5aGAYRPycI3H1Cu50COiMuwpQ/s16000/bash.png" width="200" height="auto"></a>
+<a href="https://github.com/utsanjan/Tsunami-Bomber"><img src="https://bit.ly/37QPnfq" width="200" height="auto"></a>
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become responsible<br>
 > for any misuse or damage caused by Tsunami. Please do<br>
@@ -35,8 +35,7 @@ by clicking the button below:** <br>
 <br>Download the application from below:** 
  
 <a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho5twszWmuV18M_TC7sI2TfXdsjEvi6fWQmuBqZ-dP8qTXLeXDbwKySNvyV74-r4Y4_zpPqYCWNgDtwV9FV6fVkEu9uupJK8XWCZMbgHZn1Eh_YhWJvwgozDxFloc2iuXvWw2hK3DaUjQv9gOijGMTYA1N9aI_uKyGlBGPzEKj771zHIt6ij4STMkstw/w640-h187/Download.png"
-alt="Tsunami App Download" width="200" height"auto"></a><br>ㅤ
+<img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200" height"auto"></a><br>ㅤ
 
 - For best performance, use a decent network connection
 - The application requires active internet connection to contact the APIs
