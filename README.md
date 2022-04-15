@@ -35,8 +35,8 @@ by clicking the button below:** <br>
 <br>Download the application from below:** 
  
 <a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
-<img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
-alt="Tsunami App Download"></a><br>ㅤ
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho5twszWmuV18M_TC7sI2TfXdsjEvi6fWQmuBqZ-dP8qTXLeXDbwKySNvyV74-r4Y4_zpPqYCWNgDtwV9FV6fVkEu9uupJK8XWCZMbgHZn1Eh_YhWJvwgozDxFloc2iuXvWw2hK3DaUjQv9gOijGMTYA1N9aI_uKyGlBGPzEKj771zHIt6ij4STMkstw/w640-h187/Download.png"
+alt="Tsunami App Download" width="200" height"auto"></a><br>ㅤ
 
 - For best performance, use a decent network connection
 - The application requires active internet connection to contact the APIs
