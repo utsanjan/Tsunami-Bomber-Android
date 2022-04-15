@@ -18,10 +18,13 @@
 [![](https://img.shields.io/github/license/utsanjan/Tsunami-Bomber-Android?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎
 [![](https://img.shields.io/github/languages/top/utsanjan/Tsunami-Bomber-Android?color=light%20green&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android)‎ ‎ <br><br>
 ⚙ **[Click here for Application Usage Guide](#%EF%B8%8F-usage-guide)** <br>
-- Dual Integer Bug is Fixed Now‎ ‎ ✅<br>
-- **The Shell Script version of this app<br>
-is also available. You can find it from<br>
-the following Repository: [Click Here](https://github.com/utsanjan/Tsunami-Bomber/)** <br>
+Dual Integer Bug is Fixed Now‎ ‎ ✅<br>
+
+**→ Shell Script version of this app<br>
+is also available. You can find it<br>
+by clicking the button below:** <br>
+
+<a href="https://github.com/utsanjan/Tsunami-Bomber"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzUYIjctsC1gIOl8cdmALklKk3UsOoiS9ep4u7vpomz31UHReDNp932OFvUjVt2U27C4_6ayAXXLglafewTVVHuvKCW1t10hjX95ylz-SamX-JqLW_BWAPd8ceVFc2hfccHLZCmcQfcEnCqGW2J0GGeSy_bt5vIZ_u5aGAYRPycI3H1Cu50COiMuwpQ/s16000/bash.png" width="200" height="auto"></a>
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become responsible<br>
 > for any misuse or damage caused by Tsunami. Please do<br>
