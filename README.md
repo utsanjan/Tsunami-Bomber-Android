@@ -37,9 +37,11 @@ by clicking the button below:** <br>
 <br>Download the application from below:** 
  
 <a href="https://xpshort.com/Tsunami-Bomber-Android">
-<img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200" height"auto"></a><br>ㅤ
+<img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200" height"auto"></a>
 
-- For best performance, use a decent network connection
+###### ‼️ NOTE: If you're facing any issue regarding downloads do refer to [this video](https://youtu.be/Z_gKRgbhkqA).
+
+- For best performance, use a decent & stable network connection
 - The application requires active internet connection to contact the APIs
 - This application must not be used to cause harm/discomfort/trouble to others
 - You would not be charged for any SMS/calls dispatched as a consequence of this app
