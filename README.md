@@ -36,7 +36,7 @@ by clicking the button below:** <br>
 <br>**Bug reports will be much appreciated.
 <br>Download the application from below:** 
  
-<a href="https://techymozo.com/Tsunami-Bomber-Android">
+<a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
 <img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200" height"auto"></a>
 
 ###### ‼️ NOTE: If you're facing any issue regarding downloads do refer to [this video](https://youtu.be/Z_gKRgbhkqA).
