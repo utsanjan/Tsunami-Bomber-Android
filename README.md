@@ -18,9 +18,10 @@
 [![](https://img.shields.io/github/license/utsanjan/Tsunami-Bomber-Android?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎
 [![](https://img.shields.io/github/languages/top/utsanjan/Tsunami-Bomber-Android?color=light%20green&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android)‎ ‎ <br><br>
 ⚙ **[Click here for Application Usage Guide](#%EF%B8%8F-usage-guide)** <br>
-404 application unable to connect fixed‎ ‎ ✅<br>
-Dual Integer Bug is Fixed Now‎ ‎ ✅<br>
-In-app UI updated ‎ ‎ ✅<br>
+
+✅‎ ‎ 404 application unable to connect fixed<br>
+✅‎ ‎ Dual Integer Bug is Fixed Now<br>
+✅‎ ‎ In-app UI updated<br>
 
 **→ Shell Script version of this app<br>
 is also available. You can find it<br>
