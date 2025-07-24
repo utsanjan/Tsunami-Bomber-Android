@@ -14,7 +14,7 @@
 
 ## 📝 Notes
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
-[![](https://dcbadge.vercel.app/api/server/uavTPkr?style=plastic)](https://discord.gg/bvzTHWnD3n)‎ ‎ <br>
+[![](https://dcbadge.limes.pink/api/server/uavTPkr?style=plastic)](https://discord.gg/bvzTHWnD3n)‎ ‎ <br>
 [![](https://img.shields.io/github/languages/count/utsanjan/Tsunami-Bomber-Android?style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/search?l=shell)‎ ‎
 [![](https://img.shields.io/github/license/utsanjan/Tsunami-Bomber-Android?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎
 [![](https://img.shields.io/github/languages/top/utsanjan/Tsunami-Bomber-Android?color=light%20green&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android)‎ ‎ <br><br>
