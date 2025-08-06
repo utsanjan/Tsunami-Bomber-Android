@@ -14,10 +14,10 @@
 
 ## 📝 Notes
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
-[![](https://dcbadge.limes.pink/api/server/uavTPkr?style=plastic)](https://discord.gg/bvzTHWnD3n)‎ ‎ <br>
-[![](https://img.shields.io/github/languages/count/utsanjan/Tsunami-Bomber-Android?style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/search?l=shell)‎ ‎
-[![](https://img.shields.io/github/license/utsanjan/Tsunami-Bomber-Android?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎
-[![](https://img.shields.io/github/languages/top/utsanjan/Tsunami-Bomber-Android?color=light%20green&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android)‎ ‎ <br><br>
+[![](https://dcbadge.limes.pink/api/server/uavTPkr?style=flat)](https://discord.gg/bvzTHWnD3n)‎ ‎ <br>
+[![](https://img.shields.io/github/languages/count/utsanjan/Tsunami-Bomber-Android?style=flat)](https://github.com/utsanjan/Tsunami-Bomber-Android/search?l=shell)‎ ‎
+[![](https://img.shields.io/github/license/utsanjan/Tsunami-Bomber-Android?logoColor=red&style=flat)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎
+[![](https://img.shields.io/github/languages/top/utsanjan/Tsunami-Bomber-Android?color=light%20green&style=flat)](https://github.com/utsanjan/Tsunami-Bomber-Android)‎ ‎ <br><br>
 ⚙ **[Click here for Application Usage Guide](#%EF%B8%8F-usage-guide)** <br>
 ✅‎ ‎ Tsunami app is back with a brand new UI<br>
 ✅‎ ‎ 404 application unable to connect fixed<br>
