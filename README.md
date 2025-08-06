@@ -24,7 +24,7 @@
 [![](https://img.shields.io/github/languages/top/utsanjan/Tsunami-Bomber-Android?color=light%20green&style=flat)](https://github.com/utsanjan/Tsunami-Bomber-Android)‎ ‎ <br>
 
 ✅ The Tsunami app is back, showcasing an exciting new user interface that enhances your experience!<br> 
-✅ We've resolved the pesky connection issue with the 404 application, ensuring seamless functionality.<br> 
+✅ We've resolved the pesky "404 application unable to connect" issue, ensuring seamless functionality.<br> 
 ✅ The dual integer input bug has been fixed, providing you with a smoother, more reliable performance.
 
 ⚙ **[Click here for Application Usage Guide](#%EF%B8%8F-usage-guide)** <br>
