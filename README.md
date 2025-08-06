@@ -45,7 +45,7 @@ by clicking the button below:** <br>
 - By utilizing this application, you acknowledge that you cannot hold the developer liable for any misuse.
 
 ## 🛠️ Usage Guide
-If you're looking for clear instructions on using the Tsunami Bomber application, check out my YouTube video tutorial. This walkthrough covers installation, configuration, and key features for both beginners and experienced users. It also addresses common troubleshooting issues and shows you how to maximize the app's functions. Whether you're new or want to enhance your skills, this tutorial offers valuable visual guidance. You can watch it here:<br><br>
+If you're looking for clear instructions on using the Tsunami Bomber application, check out my YouTube video tutorial. This walkthrough covers installation, configuration, and key features for both beginners and experienced users. It also addresses common troubleshooting issues and shows you how to maximize the app's functions. This tutorial provides helpful visual guidance that you can watch here:<br><br>
 <a href="https://youtu.be/w7bO0Cotu5A"><img alt="YouTube" title="UsageGuide" src="https://lh3.googleusercontent.com/-AsfTwhCD4i8/YJ9EiIaGTOI/AAAAAAAAg7o/67sw20Tc4d4jbLCnyftfcsQvKYjKGM3hQCLcBGAsYHQ/w320-h180/imageonline-co-roundcorner.png"/></a>
 
 ## 📱 Compatibility
