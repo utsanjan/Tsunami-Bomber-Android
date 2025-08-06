@@ -37,7 +37,7 @@ by clicking the button below:** <br>
 > ## DISCLAIMER:
 > **The developer accepts no liability for any misuse or damage caused by Tsunami. We kindly encourage you to use this app responsibly and exclusively for positive purposes, steering clear of any notions of revenge. Your integrity matters - let’s keep our intentions pure!**
 
-###### ‼️ NOTE: This script is in its Beta stage right now. Currently, only Indian Mobile numbers are supported. If you're facing any issue regarding downloads, do refer to [this video](https://youtu.be/Z_gKRgbhkqA).
+###### ‼️ NOTE: This script is in its Beta stage right now. Currently, only Indian Mobile numbers are supported.<br>If you're facing any issue regarding downloads, do refer to [this video](https://youtu.be/Z_gKRgbhkqA).
 - For optimal performance, please ensure you have a reliable and stable network connection.
 - The application requires an active internet connection to access the APIs.
 - This application should not be used to cause harm, discomfort, or distress to others.
