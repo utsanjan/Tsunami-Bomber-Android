@@ -8,7 +8,7 @@
   <br>
 </h1>
  
-<p align="center">A free SMS or OTP flooding Android app that lets you<br>send unlimited messages anytime, with no restrictions<br><br>
+<p align="center">A free SMS or OTP flooding Android app<br>that lets you send unlimited messages<br>anytime, without any restrictions<br><br>
 
 <a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
 <img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200" height"auto"></a></p><br>
