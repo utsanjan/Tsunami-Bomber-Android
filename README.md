@@ -13,7 +13,7 @@
 <a href="https://github.com/utsanjan/Tsunami-Bomber-Android/releases">
 <img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200" height"auto"></a></p><br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b29e8364-8609-453e-b158-e69773137b15" width=120 height=240> <img src="https://github.com/user-attachments/assets/3964b55b-2877-43c9-b9b0-835bef3c12ce" width=120 height=240> <img src="https://github.com/user-attachments/assets/73fd25ac-84c2-4ca7-9959-7db97943f085" width=120 height=240> <img src="https://github.com/user-attachments/assets/81eeb0af-a008-4ed4-9856-cbd940c933d2" width=120 height=240> <img src="https://github.com/user-attachments/assets/a7961797-870e-4db3-9385-d7f2d1c65724" width=120 height=240> </p>
+<img src="https://github.com/user-attachments/assets/b29e8364-8609-453e-b158-e69773137b15" width=120 height=auto> <img src="https://github.com/user-attachments/assets/3964b55b-2877-43c9-b9b0-835bef3c12ce" width=120 height=auto> <img src="https://github.com/user-attachments/assets/73fd25ac-84c2-4ca7-9959-7db97943f085" width=120 height=auto> <img src="https://github.com/user-attachments/assets/81eeb0af-a008-4ed4-9856-cbd940c933d2" width=120 height=auto> <img src="https://github.com/user-attachments/assets/a7961797-870e-4db3-9385-d7f2d1c65724" width=120 height=auto> </p>
 
 
 ## 📝 Notes
