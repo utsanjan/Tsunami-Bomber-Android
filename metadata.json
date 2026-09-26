@@ -1,0 +1,8 @@
+{
+  "name": "Tsunami",
+  "description": "Tsunami Bomber & OTP Stress Testing Suite rewritten in React with live simulation, gateway latency testing, and network resilience controls.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
